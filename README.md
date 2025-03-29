@@ -1,6 +1,6 @@
 Code Fortress 
 
-Question & Answer compatible with LearnDash
+Question & Answer Wordpress Plugin compatible with LearnDash
 
 A powerful question and answer system designed specifically for LearnDash LMS that enhances student engagement through interactive Q&A functionality on courses, lessons, and topics.
 this Q&A system seamlessly integrates with LearnDash to provide a comprehensive question and answer platform directly within your learning management system. Students can ask questions related to specific course content, and instructors can provide answers, creating a collaborative learning environment.
@@ -8,7 +8,7 @@ this Q&A system seamlessly integrates with LearnDash to provide a comprehensive 
 Features:
 
 - Course-Specific Q&A: Questions are tied to specific courses, lessons, or topics
-- Real-Time Updates: Questions and answers update in real-time without page refreshes using WordPress Heartbeat API
+- Real-Time Updates: Questions and answers update in real-time without page refreshes
 - Moderation System: Optional moderation workflow for questions before they become visible
 - AJAX Pagination: Smooth, AJAX-powered pagination that preserves proper URL structure
 - Elementor Compatible: Full compatibility with Elementor page builder
